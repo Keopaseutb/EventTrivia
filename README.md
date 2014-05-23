@@ -5,9 +5,9 @@ Allows for trivia of popular cultural events.
 
 Contributors:
 ===========
--Bo Keopaseut
--Paolo Payumo
--Germain Boue
+-Bo Keopaseut<br>
+-Paolo Payumo<br>
+-Germain Boue<br>
 
 Schema:
 ======
